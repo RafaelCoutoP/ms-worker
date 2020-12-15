@@ -12,5 +12,31 @@ O sistema de Autorização foi feito com o algoritmo de criptação BCrypt e tok
 
 #Modelo microservices
 
+![modelo microservice](https://github.com/RafaelCoutoP/ms-worker/blob/main/assets/Captura%20de%20Tela%20(52).png)
 
 
+#Modelo conceitual
+
+![modelo conceitual](https://github.com/RafaelCoutoP/ms-worker/blob/main/assets/Captura%20de%20Tela%20(51).png)
+
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Spring Security
+- Banco H2
+- OAuth2
+- Token JWT
+- BCrypt
+- Eureka Server
+- Zuul
+- Config Server
+
+# Implementação em produção
+- Docker 
+- Banco de dados Postgres
+
+# Autor
+Rafael Couto
