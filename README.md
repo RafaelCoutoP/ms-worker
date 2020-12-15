@@ -10,4 +10,7 @@ Uma aplicação com arquitetura de microservices desenvolvida com os ensinamento
 O usuário administrador obrigatoriamente tem que estar logado para acessar os dados de buscas e de pagamento dos microservices da aplicação.
 O sistema de Autorização foi feito com o algoritmo de criptação BCrypt e token JWT com a api  de autorização e autenticação OAuth2 seguindo os padrões de arquitetura do oauth2.
 
+#Modelo microservices
+
+
 
